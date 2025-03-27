@@ -5,7 +5,7 @@
 ---
 
 ## Step 1 : Setting up a VPS
-You can choose CLOUP VPS 2 on Contabo : https://www.tkqlhce.com/click-101114590-13484397
+You can choose CLOUD VPS 2 on Contabo : https://www.tkqlhce.com/click-101114590-13484397
 
 ![image](https://github.com/user-attachments/assets/94b0b6f0-5f38-46a0-a3c7-93de207a4ac9)
 
